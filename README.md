@@ -342,7 +342,7 @@ $\text{MaxSeenTimestamp} \ge \text{WindowEndTime} + \text{DelayParam}$
 
 ![image.png](/pic/image%2011.png)
 
-*图 4-3：滚动窗口与滑动窗口的统计拟合度 ($\text{R^2}$ Score) 对比*
+*图 4-3：滚动窗口与滑动窗口的统计拟合度 ($R^{2}$ Score) 对比*
 
 ***4.1 分析与结论***
 
